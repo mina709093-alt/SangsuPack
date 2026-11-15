@@ -23,6 +23,7 @@
 | RotaKey (매크로 메이커) | 스킬 순서를 그룹별로 만들고 퀵슬롯 아이콘 하나로 연타 실행 | https://github.com/mina709093-alt/RotaKey |
 | BuffAlert (버프 알림) | 등록한 버프가 사라지면 아이콘과 알림음으로 알림 | https://github.com/mina709093-alt/BuffAlert |
 | QuestNavigator | 장비 / 특성 / 퀘스트 보상 정보 검증용 | https://github.com/mina709093-alt/QuestNavigator |
+| LootAssist (전리품 도우미) — 테스트 중 | 주사위 창에서 입찰 / 양보 / 차비 판단을 도움 (개발 중, 기능이 계속 추가됨) | https://github.com/mina709093-alt/LootAssist |
 
 ## 업데이트하기
 

@@ -24,6 +24,7 @@
 | BuffAlert (버프 알림) | 등록한 버프가 사라지면 아이콘과 알림음으로 알림 | https://github.com/mina709093-alt/BuffAlert |
 | QuestNavigator | 장비 / 특성 / 퀘스트 보상 정보 검증용 | https://github.com/mina709093-alt/QuestNavigator |
 | LootAssist (전리품 도우미) — 테스트 중 | 주사위 창에서 입찰 / 양보 / 차비 판단을 도움 (개발 중, 기능이 계속 추가됨) | https://github.com/mina709093-alt/LootAssist |
+| SangsusStyle (상수 스타일 UI) | 액션바·유닛 프레임·채팅·미니맵·각종 창을 어두운 평면 "상수 스타일"로 바꾸고, 이동 모드로 위치·크기 조절 | https://github.com/mina709093-alt/SangsusStyle |
 
 ## 업데이트하기
 

@@ -24,6 +24,7 @@
 | BuffAlert (버프 알림) | 등록한 버프가 사라지면 아이콘과 알림음으로 알림 | https://github.com/mina709093-alt/BuffAlert |
 | QuestNavigator | 장비 / 특성 / 퀘스트 보상 정보 검증용 | https://github.com/mina709093-alt/QuestNavigator |
 | LootAssist (전리품 도우미) — 테스트 중 | 주사위 창에서 입찰 / 양보 / 차비 판단을 도움 (개발 중, 기능이 계속 추가됨) | https://github.com/mina709093-alt/LootAssist |
+| DungeonAssist (던전 도우미) — 테스트 중 | Forever Dungeon Routes 지도 보완: 희귀 자동 체크, 확인 못 한 우두머리 "?", 파티원과 체크 맞추기, 지도 손그림 공유 (**Forever Dungeon Routes가 있어야 동작**) | https://github.com/mina709093-alt/DungeonAssist |
 
 ## 업데이트하기
 
